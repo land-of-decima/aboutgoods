@@ -97,7 +97,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/calendar.google.com\/calendar\/u\/0\/r\/month"
+                 "value":"https:\/\/www.perdu.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
